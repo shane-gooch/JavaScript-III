@@ -15,7 +15,6 @@
 function add () {
     console.log(this, x);
 }
-
 let x = 2+3;
 add();
 
